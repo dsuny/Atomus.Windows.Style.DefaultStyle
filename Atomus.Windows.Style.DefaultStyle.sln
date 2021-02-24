@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FEF11870-4485-4215-B87F-5BC848D90A9B}"
+	ProjectSection(SolutionItems) = preProject
+		DefaultStyle.cs = DefaultStyle.cs
+		ResourceDictionaryDefault - 복사본.xaml = ResourceDictionaryDefault - 복사본.xaml
+		ResourceDictionaryDefaultGray.xaml = ResourceDictionaryDefaultGray.xaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomus.Windows.Style.DefaultStyle(dotNet)", "dotNet\Atomus.Windows.Style.DefaultStyle(dotNet).csproj", "{691EE32F-8312-46CC-83C1-E783AAFE4B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691EE32F-8312-46CC-83C1-E783AAFE4B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691EE32F-8312-46CC-83C1-E783AAFE4B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691EE32F-8312-46CC-83C1-E783AAFE4B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691EE32F-8312-46CC-83C1-E783AAFE4B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7EECE46-EC22-4461-B67A-82C9855125D9}
+	EndGlobalSection
+EndGlobal
